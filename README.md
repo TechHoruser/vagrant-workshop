@@ -7,6 +7,7 @@
 #### Primeros Pasos
 1. Instalar vagrant
     > brew install vagrant
+
     > apt-get install vagrant
 1. Descargar box de debian 64 bits
     > vagrant box add debian/jessie64
